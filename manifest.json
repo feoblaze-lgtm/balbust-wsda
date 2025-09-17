@@ -1,0 +1,8 @@
+{
+  "name": "WASD Movement",
+  "description": "Позволяет перемещать выбранный токен клавишами W, A, S, D и поворачивать Q/E",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "url": "index.js",
+  "thumbnail": "icon.png"
+}
